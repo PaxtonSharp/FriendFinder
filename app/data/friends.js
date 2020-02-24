@@ -1,101 +1,84 @@
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Pikachu",
+    photo: "https://secure.img1-ag.wfcdn.com/im/02238154/compr-r85/8470/84707680/pokemon-pikachu-wall-decal.jpg",
     scores: [
-      "5",
-      "1",
-      "4",
-      "4",
-      "5",
-      "1",
       "2",
-      "5",
-      "4",
-      "1"
-    ]
-  },
-  {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-    scores: [
+      "3",
       "4",
       "2",
-      "5",
       "1",
+      "4",
       "3",
       "2",
-      "2",
-      "1",
-      "3",
+      "4",
       "2"
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
-    scores: [
-      "5",
-      "2",
-      "2",
-      "2",
-      "4",
-      "1",
-      "3",
-      "2",
-      "5",
-      "5"
-    ]
-  },
-  {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Snorlax",
+    photo: "https://img.pokemondb.net/artwork/large/snorlax.jpg",
     scores: [
       "3",
-      "3",
-      "4",
-      "2",
+      "5",
       "2",
       "1",
       "3",
-      "2",
-      "2",
+      "3",
+      "1",
+      "3",
+      "3",
       "3"
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Hitmonchamp",
+    photo: "https://img.pokemondb.net/artwork/large/hitmonchan.jpg",
     scores: [
-      "4",
-      "3",
-      "4",
-      "1",
-      "5",
+      "2",
       "2",
       "5",
+      "5",
       "3",
-      "1",
-      "4"
+      "5",
+      "2",
+      "3",
+      "3",
+      "5"
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Squirtle",
+    photo: "https://miro.medium.com/max/302/1*KuSu6ZTyLAcRDwOsI9ZzZA.png",
     scores: [
-      "4",
-      "4",
-      "2",
+      "5",
       "3",
-      "2",
-      "2",
-      "3",
-      "2",
       "4",
-      "5"
+      "3",
+      "5",
+      "3",
+      "4",
+      "1",
+      "3",
+      "1"
+    ]
+  },
+  {
+    name: "Charmander",
+    photo: "https://img.pokemondb.net/artwork/large/charmander.jpg",
+    scores: [
+      "1",
+      "3",
+      "4",
+      "3",
+      "4",
+      "4",
+      "5",
+      "1",
+      "2",
+      "4"
     ]
   }
-
 ];
 
 // Here we export the array. This makes it accessible to other files using require.
